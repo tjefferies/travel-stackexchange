@@ -26,3 +26,8 @@ This repo demonstrates knowledge in the following areas:
 * Object Oriented Programming
 * Visualizing results
 * Model building
+* Ability to ask questions
+
+This repo is part of my journey to becoming a "full-stack" data scientist. Comments and feedback are much appreciated.
+
+ -TJ
