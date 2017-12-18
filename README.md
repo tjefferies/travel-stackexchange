@@ -7,11 +7,11 @@ This repo contains an analysis of a travel stackexchange .xml data dump and incl
 3. Data exploration - asking data questions and visualizing results
 4. Model building including a sentiment analysis problem (classification)
 
-Steps 1. and 2. are shown in the XML2MySQL.ipynb
+Steps 1. and 2. are shown in the XML2MySQL.ipynb.
 
-Files having to do with data exploration are prefixed Data Exploration
+Files having to do with data exploration are prefixed Data Exploration - this includes the lda.html file that is too large to render inside the browser on Github. For best results, open this file in Google Chrome.
 
-Model building files are prefixed accordingly based on their objective
+Model building files are prefixed accordingly based on their objective. So far, I only have a sentiment analysis file - more to come.
 
 All steps have been modularized for reproducability on any of the 350 stackexchange forum data dumps. Classes are found in the .py files.
 
